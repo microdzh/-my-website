@@ -13,7 +13,7 @@
     z-index: -1;
     width: 100%;
     height: 100%;
-    background: url(../images/banner1.jpg) no-repeat center/cover;
+    background: url(images/banner1.jpg) no-repeat center/cover;
     filter: blur(4px);
 }
 
@@ -175,7 +175,7 @@
 
 /* 在线视频 */
 .video-container{
-    background: url(../images/bg.png) no-repeat center/cover;
+    background: url(images/bg.png) no-repeat center/cover;
 }
 
 .video-container .column-title h3{
@@ -286,7 +286,7 @@
 /* 作品评价  */
 #award-bg{
     padding: 10px 0;
-    background: url(../images/bg2.jpg) no-repeat center center/cover;
+    background: url(images/bg2.jpg) no-repeat center center/cover;
 }
 
 .award-main-content{
@@ -322,7 +322,7 @@
 /* 联系我们 */
 .contactus-banner{
     height: 420px;
-    background: url(../images/banner2.jpg) no-repeat center/cover;
+    background: url(images/banner2.jpg) no-repeat center/cover;
 }
 
 .email-box li{
@@ -403,4 +403,5 @@
 
 .submitbar input[type=reset] {
     margin-left: 25px;
+
 }
