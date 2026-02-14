@@ -144,12 +144,12 @@ a {
 .banner-wrapper {
     height: 520px;
     color: #fff;
-    background: url(../images/banner1.jpg) no-repeat center/cover;
+    background: url(images/banner1.jpg) no-repeat center/cover;
 }
 
 .child-banner{
     height: 420px;
-    background: url(../images/banner1.jpg) no-repeat center/cover;
+    background: url(images/banner1.jpg) no-repeat center/cover;
 }
 /* 导航区 */
 .nav {
@@ -191,7 +191,7 @@ a {
 .column-one-content{
     color: #fff;
     background-color: #57E0FF;
-    background: url(../images/bg.png) no-repeat center bottom/cover;
+    background: url(images/bg.png) no-repeat center bottom/cover;
     background-attachment: fixed;
 }
 
@@ -289,4 +289,5 @@ a {
 
 .column-four{
     margin-bottom: 40px;
+
 }
